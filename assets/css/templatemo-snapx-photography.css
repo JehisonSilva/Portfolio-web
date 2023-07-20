@@ -592,7 +592,7 @@ Header Style
   }
   .header-area {
     background-color: #2a2a2a;
-    padding: 0px 15px;
+    padding: 10px 10px;
     height: 100px;
     box-shadow: none;
     text-align: center;
