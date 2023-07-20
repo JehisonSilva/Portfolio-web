@@ -2117,7 +2117,7 @@ Categories Page
 
 .featured-contests .item .hover-effect {
   position: absolute;
-  right: -100%;
+  right: -110%;
   bottom: 15px;
   transition: all .5s;
 }
